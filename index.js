@@ -6,9 +6,9 @@ let bot;
 
 function createBot() {
   bot = mineflayer.createBot({
-    host: "localhost",
-    port: "25565",
-    username: "24ATERNOSBOT",
+    host: "RiseSMPMC.aternos.me",
+    port: "46779",
+    username: "RiseSMPBOT",
     version: false
   });
 
